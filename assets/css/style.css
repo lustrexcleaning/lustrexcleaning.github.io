@@ -770,7 +770,7 @@ header .header-social ul li a:hover {
 }
 
 .header-area.header-absolute .header-nav {
-  background-color: transparent;
+  /* background-color: transparent; */
   position: unset;
 }
 
@@ -834,7 +834,7 @@ header .header-social ul li a:hover {
 
 .header-area.header-absolute .header-nav.sticky {
   position: fixed;
-  background-color: #13287d;
+  /* background-color: #13287d; */
 }
 
 .header-area.header-absolute .header-top {
